@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Juego de colores</string>
+    <string name="welcome_subtitle">¡Pon a prueba tu velocidad de reacción!</string>
+    <string name="rules_title">📋 Reglas del juego</string>
+    <string name="rule_1">🎨 Se mostrará un color en pantalla.</string>
+    <string name="rule_2">👆 Presiona el botón que coincida con ese color.</string>
+    <string name="rule_3">⏱ Tienes 30 segundos para acertar la mayor cantidad posible.</string>
+    <string name="rule_4">🏆 Cada acierto suma un punto.</string>
+    <string name="btn_start">Iniciar Juego</string>
+    <string name="label_score">Puntaje</string>
+    <string name="label_time">Tiempo</string>
+    <string name="result_title">Resultado</string>
+    <string name="label_final_score">Puntaje\nFinal</string>
+    <string name="label_high_score">Récord\nHistórico</string>
+    <string name="label_history">Historial de partidas</string>
+    <string name="label_session">Partida #%1$d</string>
+    <string name="label_session_score">%1$d pts</string>
+    <string name="btn_play_again">Volver a jugar</string>
+</resources>
